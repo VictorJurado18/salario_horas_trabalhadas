@@ -1,0 +1,30 @@
+# Calculadora de Salário Mensal
+
+Este é um script Python que calcula o salário mensal com base na quantidade de horas trabalhadas e na taxa horária. O programa considera a quantidade de dias úteis em um mês (desconsiderando feriados) e fornece uma recomendação para dividir o salário em despesas básicas, poupança/investimento, e gastos pessoais.
+
+## 📋 Pré-requisitos
+
+Você precisará de Python 3.6 ou superior para executar este script. Além disso, é necessário instalar a biblioteca `holidays`.
+
+## 📚 Instalando as dependências
+
+Todas as dependências necessárias para este projeto estão listadas no arquivo `requirements.txt`. Para instalá-las, execute o seguinte comando:
+
+
+
+```pip install -r requirements.txt```
+## 🚀 Instalação e execução
+
+1. Clone este repositório
+2. Navegue até a pasta do repositório clonado
+3. Execute o script com o seguinte comando:
+
+```python main.py```
+
+## 📝 Uso
+
+Ao executar o script, você será solicitado a inserir o número do mês (de 1 a 12) e sua taxa horária. O script irá calcular e exibir o número de horas de trabalho no mês, o salário mensal estimado e uma recomendação para a divisão do salário.
+
+## 📜 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
